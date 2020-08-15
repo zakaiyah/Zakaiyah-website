@@ -1,0 +1,12 @@
+img{    
+    width: 250px;    
+    height: 250px;
+}
+nav{
+    background-color: lightpink;
+}
+nav a{
+    color: lightslategray;
+    font-size: 36px;
+    text-decoration: ;
+}
